@@ -1,5 +1,3 @@
-# Simple-RAG-Implementation
-
 # Simple RAG Implementation
 
 Due Date: March 22, 2026
