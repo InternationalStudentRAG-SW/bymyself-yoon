@@ -64,7 +64,7 @@ https://m.blog.naver.com/PostView.naver?blogId=se2n&logNo=223443729640&proxyRefe
         
 2. wsl 속 파일 세팅
     
-    ![image.png](image.png)
+    ![wsl_setting_image](images/image1.png)
     
 3. code
     
@@ -152,18 +152,16 @@ https://m.blog.naver.com/PostView.naver?blogId=se2n&logNo=223443729640&proxyRefe
     
 4. result
     
-    ![image.png](image%201.png)
-    
-    [https://www.notion.so](https://www.notion.so)
+    ![result_image](images/image2.png)
     
 5. 개선해야 할 점
     1. 중간중간에 한글 출력이 제대로 되지 않는 부분이 있음
         
-        ![숫자 출력 오류](image%202.png)
+        ![wrong_image1](images/image3.png)
         
         숫자 출력 오류
         
-        ![제출해야 할 서류](image%203.png)
+        ![wrong_image2](images/image4.png)
         
         제출해야 할 서류
         
